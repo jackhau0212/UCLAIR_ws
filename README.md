@@ -1,4 +1,7 @@
 # UCL_AIR_ROS
+University College London Aritifical Intelligence & Robotics (UCL AIR) is a research group founded and led by Jack Hau. The group designed, built, manufactured, and coded an end-to-end autonomous unmanned aerial vehicle (UAV). The technical functionalites include obstacle avoidance, image detection, localisation, and classification, and payload delivery. The group competed in the [SUAS Competition](https://suas-competition.org/competitions) in 2023 and achieved outstanding results coming at 3rd place in the overal competition. 
+
+More information about our work can be found in this [video](https://youtu.be/ehxr1gdVCQY?si=VEtaJz4c3VjAec__) .
 
 ## Set Up Catkin workspace
 
